@@ -158,7 +158,7 @@ h3{
     animation: Intermediate 3s;
 }
 .BTech{
-    width: 62%;
+    width: 72%;
     animation: BTech 3s;
 }
 @keyframes SSC {
@@ -182,7 +182,7 @@ h3{
         width: 0%;
     }
     100%{
-        width: 62%;
+        width: 72%;
     }
 }
 
